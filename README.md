@@ -4,7 +4,7 @@
 <h4 align = "center">This is a work in progress and will be updated as more of the challenge is completed</h4>
 
 ## 🌱Beginner🌱
-- Day 1
+- [Day 1:](https://github.com/BoschLive/100-days-of-code/tree/main/Day1) Working with Variables in Python to Manage Data
 - Day 2
 - Day 3
 - Day 4
