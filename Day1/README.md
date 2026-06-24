@@ -1,4 +1,4 @@
-<h1 align = "center">Day 1 Project: Band Name Generator</h1>
+<h1 align = "center">🎸Day 1 Project: Band Name Generator🎸</h1>
 
 ## Content Covered:
 - print() function
