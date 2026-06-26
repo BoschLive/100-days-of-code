@@ -6,7 +6,7 @@
 ## 🌱Beginner🌱
 - [Day 1:](https://github.com/BoschLive/100-days-of-code/tree/main/Day1) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/BoschLive/100-days-of-code/tree/main/Day2) Understanding Data Types and How to Manipulate Strings
-- Day 3
+- [Day 3](https://github.com/BoschLive/100-days-of-code/tree/main/Day3) Control Flow and Logical Operators 
 - Day 4
 - Day 5
 - Day 6
