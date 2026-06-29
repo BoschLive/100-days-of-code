@@ -1,4 +1,6 @@
 <h1 align = "center"> 100 Days of Code - Python</h1>
+<img width="1200" height="628" alt="giphy" src="https://github.com/user-attachments/assets/c96ac6e7-0460-496b-94cb-0701336674e3" />
+
 
 ## Projects inspired by the [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_campaign=Search_Keyword_Delta_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_173000581191_._ad_720378962763_._kw_masterclass+python&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21887633942&gclid=CjwKCAjwgO7RBhBKEiwAZNP85oORpnBCLpicprAdUagCjn9oHQ2Le_Zw4s_yLqK3YgaczxcAL0wdaBoCUxMQAvD_BwE&couponCode=PMNVD1525)
 <h4 align = "center">This is a work in progress and will be updated as more of the challenge is completed</h4>
