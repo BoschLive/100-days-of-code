@@ -53,7 +53,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/[TomekK]
 *******************************************************************************''')
         else:
-            print("Oops! Wrong choice! ")
+            print("Oops! Wrong choice! You fell into a bottomless pit! ")
     else:
         print("Uh oh! You tried to swim but were attacked by alligators! \n")
         print(''' ___.-----.______
