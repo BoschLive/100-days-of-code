@@ -3,17 +3,17 @@
 
 
 ## Projects inspired by the [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_campaign=Search_Keyword_Delta_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_173000581191_._ad_720378962763_._kw_masterclass+python&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21887633942&gclid=CjwKCAjwgO7RBhBKEiwAZNP85oORpnBCLpicprAdUagCjn9oHQ2Le_Zw4s_yLqK3YgaczxcAL0wdaBoCUxMQAvD_BwE&couponCode=PMNVD1525)
-<h4 align = "center">This is a work in progress and will be updated as more of the challenge is completed</h4>
+<h3 align = "center">This is a work in progress and will be updated as more of the challenge is completed</h3>
 
 ## 🌱Beginner🌱
 - [Day 1:](https://github.com/BoschLive/100-days-of-code/tree/main/Day1) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/BoschLive/100-days-of-code/tree/main/Day2) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/BoschLive/100-days-of-code/tree/main/Day3) Control Flow and Logical Operators 
 - [Day 4:](https://github.com/BoschLive/100-days-of-code/tree/main/Day4) Randomisation and Python Lists 
-- Day 5
-- Day 6
-- Day 7
-- Day 8
+- [Day 5:](https://github.com/BoschLive/100-days-of-code/tree/main/Day5) Pyhon Loops 
+- [Day 6:](https://github.com/BoschLive/100-days-of-code/tree/main/Day6) Python Functions and Karel
+- [Day 7:](https://github.com/BoschLive/100-days-of-code/tree/main/Day7) Hangman
+- [Day 8:](https://github.com/BoschLive/100-days-of-code/tree/main/Day8) Function Parameters and Caesar Cipher
 - Day 9
 - Day 10
 - Day 11
