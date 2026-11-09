@@ -14,7 +14,7 @@
 - [Day 6:](https://github.com/BoschLive/100-days-of-code/tree/main/Day6) Python Functions and Karel
 - [Day 7:](https://github.com/BoschLive/100-days-of-code/tree/main/Day7) Hangman
 - [Day 8:](https://github.com/BoschLive/100-days-of-code/tree/main/Day8) Function Parameters and Caesar Cipher
-- Day 9
+- [Day 9:](https://github.com/BoschLive/100-days-of-code/tree/main/Day9) Python Dictionaries and Nesting
 - Day 10
 - Day 11
 - Day 12
